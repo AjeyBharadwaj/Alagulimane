@@ -1,0 +1,46 @@
+Alugulimane : https://en.wikipedia.org/wiki/Ali_Guli_Mane
+
+How To Run : 
+	python3 main.py MAX_POS INIT_VALUE
+
+SAMPLE OUTPUT:
+
+[2020-04-08 00:15.46]  ~/Alagulimane
+[ajbharad.AJBHARAD-RHHFX] ➤ python3 main.py 6 3
+In Alugulimane with 6 Postions and 3 Initial Coins, it takes 547 turns to arrive at initial position
+                                                                                                                                                                                         ✔
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[2020-04-08 00:15.52]  ~/Alagulimane
+[ajbharad.AJBHARAD-RHHFX] ➤ python3 main.py 8 3
+In Alugulimane with 8 Postions and 3 Initial Coins, it takes 92193 turns to arrive at initial position
+                                                                                                                                                                                         ✔
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[2020-04-08 00:15.57]  ~/Alagulimane
+[ajbharad.AJBHARAD-RHHFX] ➤ python3 main.py 2 3
+In Alugulimane with 2 Postions and 3 Initial Coins, it takes 4 turns to arrive at initial position
+                                                                                                                                                                                         ✔
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[2020-04-08 00:16.01]  ~/Alagulimane
+[ajbharad.AJBHARAD-RHHFX] ➤ python3 main.py 4 3
+In Alugulimane with 4 Postions and 3 Initial Coins, it takes 136 turns to arrive at initial position
+                                                                                                                                                                                         ✔
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[2020-04-08 00:16.04]  ~/Alagulimane
+[ajbharad.AJBHARAD-RHHFX] ➤ python3 main.py 6 3
+In Alugulimane with 6 Postions and 3 Initial Coins, it takes 547 turns to arrive at initial position
+                                                                                                                                                                                         ✔
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[2020-04-08 00:16.07]  ~/Alagulimane
+[ajbharad.AJBHARAD-RHHFX] ➤ python3 main.py 8 3
+In Alugulimane with 8 Postions and 3 Initial Coins, it takes 92193 turns to arrive at initial position
+                                                                                                                                                                                         ✔
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[2020-04-08 00:16.10]  ~/Alagulimane
+[ajbharad.AJBHARAD-RHHFX] ➤ python3 main.py 10 3
+In Alugulimane with 10 Postions and 3 Initial Coins, it takes 223829 turns to arrive at initial position
+                                                                                                                                                                                         ✔
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+[2020-04-08 00:16.14]  ~/Alagulimane
+[ajbharad.AJBHARAD-RHHFX] ➤ python3 main.py 12 3
+In Alugulimane with 12 Postions and 3 Initial Coins, it takes 28273849 turns to arrive at initial position
+                                                                                                                                                  
